@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+p{
+    text-align:center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ccc{
+    text-align:right;
+}
+.iii{
+    text-align: center;
+}
